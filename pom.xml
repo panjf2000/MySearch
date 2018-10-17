@@ -17,7 +17,7 @@
         <dwr.version>3.0.0-rc3-RELEASE</dwr.version>
         <slf4j>1.7.2</slf4j>
         <jstl>1.2</jstl>
-        <lucene>4.8.0</lucene>
+        <lucene>7.5.0</lucene>
         <jsoup>1.8.1</jsoup>
         <bonecp>0.8.0.RELEASE</bonecp>
         <dbutils>1.6</dbutils>
