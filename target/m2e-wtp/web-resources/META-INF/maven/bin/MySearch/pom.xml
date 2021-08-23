@@ -18,7 +18,7 @@
         <slf4j>1.7.2</slf4j>
         <jstl>1.2</jstl>
         <lucene>8.6.3</lucene>
-        <jsoup>1.8.1</jsoup>
+        <jsoup>1.14.2</jsoup>
         <bonecp>0.8.0.RELEASE</bonecp>
         <dbutils>1.6</dbutils>
         <servlet>3.1.0</servlet>
